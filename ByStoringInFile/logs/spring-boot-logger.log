@@ -1,0 +1,30 @@
+2020-11-06 12:17:08,179 DEBUG com.example.demo.controller.ByUsingXMl [http-nio-8080-exec-1] debug message 
+2020-11-06 12:17:08,179 ERROR com.example.demo.controller.ByUsingXMl [http-nio-8080-exec-1] error message
+2020-11-06 12:17:08,179 TRACE com.example.demo.controller.ByUsingXMl [http-nio-8080-exec-1] trace message
+2020-11-06 12:17:08,180 INFO com.example.demo.controller.ByUsingXMl [http-nio-8080-exec-1] info here
+2020-11-06 12:17:08,180 WARN com.example.demo.controller.ByUsingXMl [http-nio-8080-exec-1] warning
+2020-11-06 12:18:55,603 DEBUG com.example.demo.controller.ByUsingXMl [http-nio-8080-exec-1] debug message 
+2020-11-06 12:18:55,604 ERROR com.example.demo.controller.ByUsingXMl [http-nio-8080-exec-1] error message
+2020-11-06 12:18:55,604 TRACE com.example.demo.controller.ByUsingXMl [http-nio-8080-exec-1] trace message
+2020-11-06 12:18:55,604 INFO com.example.demo.controller.ByUsingXMl [http-nio-8080-exec-1] info here
+2020-11-06 12:18:55,604 WARN com.example.demo.controller.ByUsingXMl [http-nio-8080-exec-1] warning
+2020-11-06 12:22:20,202 DEBUG com.example.demo.controller.ByUsingXMl [http-nio-8080-exec-1] debug message 
+2020-11-06 12:22:20,205 ERROR com.example.demo.controller.ByUsingXMl [http-nio-8080-exec-1] error message
+2020-11-06 12:22:20,205 TRACE com.example.demo.controller.ByUsingXMl [http-nio-8080-exec-1] trace message
+2020-11-06 12:22:20,206 INFO com.example.demo.controller.ByUsingXMl [http-nio-8080-exec-1] info here
+2020-11-06 12:22:20,207 WARN com.example.demo.controller.ByUsingXMl [http-nio-8080-exec-1] warning
+2020-11-06 12:25:38,139 DEBUG com.example.demo.controller.ByUsingXMl [http-nio-8080-exec-1] debug message 
+2020-11-06 12:25:38,139 ERROR com.example.demo.controller.ByUsingXMl [http-nio-8080-exec-1] error message
+2020-11-06 12:25:38,139 TRACE com.example.demo.controller.ByUsingXMl [http-nio-8080-exec-1] trace message
+2020-11-06 12:25:38,140 INFO com.example.demo.controller.ByUsingXMl [http-nio-8080-exec-1] info here
+2020-11-06 12:25:38,140 WARN com.example.demo.controller.ByUsingXMl [http-nio-8080-exec-1] warning
+2020-11-06 12:27:35,278 DEBUG com.example.demo.controller.ByUsingXMl [http-nio-8080-exec-1] debug message 
+2020-11-06 12:27:35,282 ERROR com.example.demo.controller.ByUsingXMl [http-nio-8080-exec-1] error message
+2020-11-06 12:27:35,283 TRACE com.example.demo.controller.ByUsingXMl [http-nio-8080-exec-1] trace message
+2020-11-06 12:27:35,283 INFO com.example.demo.controller.ByUsingXMl [http-nio-8080-exec-1] info here
+2020-11-06 12:27:35,285 WARN com.example.demo.controller.ByUsingXMl [http-nio-8080-exec-1] warning
+2020-11-06 12:29:23,438 DEBUG com.example.demo.controller.ByUsingXMl [http-nio-8080-exec-1] debug message 
+2020-11-06 12:29:23,441 ERROR com.example.demo.controller.ByUsingXMl [http-nio-8080-exec-1] error message
+2020-11-06 12:29:23,441 TRACE com.example.demo.controller.ByUsingXMl [http-nio-8080-exec-1] trace message
+2020-11-06 12:29:23,441 INFO com.example.demo.controller.ByUsingXMl [http-nio-8080-exec-1] info here
+2020-11-06 12:29:23,443 WARN com.example.demo.controller.ByUsingXMl [http-nio-8080-exec-1] warning
